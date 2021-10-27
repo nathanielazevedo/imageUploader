@@ -1,0 +1,14 @@
+.nav-container{
+  height: 10vh;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 25px;
+}
+
+.nav-container  a, .nav-container div{
+  color: white;
+  text-decoration: none;
+  margin: 0 20px;
+}
